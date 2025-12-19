@@ -11,7 +11,7 @@ Este repositório contém exercícios de Java nível fundamental, organizados em
 
 ## 🏗️ Estrutura do Projeto
 
-[Estrutura do Projeto](img/estrutura.png)
+![Estrutura do Projeto](img/estrutura.png)
 
 fundamentalTreinoJavaChatGPT/
 ├── README.md               # Este arquivo
