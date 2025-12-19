@@ -1,0 +1,6 @@
+echo ".idea/" > .gitignore
+echo "*.iml" >> .gitignore
+echo ".DS_Store" >> .gitignore
+echo "*.class" >> .gitignore
+echo "target/" >> .gitignore
+echo "out/" >> .gitignore
