@@ -12,7 +12,7 @@ Este repositório contém exercícios de Java nível fundamental, organizados em
 ## 🏗️ Estrutura do Projeto
 
 <p>
-    <img src="img/estrutura.png" alt="Diagrama da estrutura em blocos" width="350" height="650">
+    <img src="img/estrutura.png" alt="Diagrama da estrutura em blocos" width="450" height="650">
 </p>
 
 [//]: # (fundamentalTreinoJavaChatGPT/)
