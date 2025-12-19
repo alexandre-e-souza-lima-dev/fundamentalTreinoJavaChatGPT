@@ -11,27 +11,45 @@ Este repositório contém exercícios de Java nível fundamental, organizados em
 
 ## 🏗️ Estrutura do Projeto
 
-![Estrutura do Projeto](img/estrutura.png)
+![Estrutura do Projeto](img/estrutura.png){: width="350" height="650"}
 
-fundamentalTreinoJavaChatGPT/
-├── README.md               # Este arquivo
-├── bloco-01/               # Bloco 01 - Variáveis, Tipos e Saída de Dados
-│   ├── ex01/               #
-│   ├── ex02/               #
-│   ├── ex03/               #
-│   └── ... até ex10        #
-├── bloco-02/               # Bloco 02 - Operadores e Condicionais (if / else)
-│   ├── ex01/               #
-│   ├── ex02/               #
-│   └── ... até ex10        #
-├── bloco-03/               # Bloco 03 - Laços de Repetição (for, while, do-while)
-├── bloco-04/               # Bloco 04 - Arrays (Vetores)
-├── bloco-05/               # Bloco 05 - Strings na Prática
-├── bloco-06/               # Bloco 06 - Métodos (Funções)
-├── bloco-07/               # Bloco 07 - Validação e Lógica Aplicada
-├── bloco-08/               # Bloco 08 - Introdução à Programação Orientada a Objetos (POO)
-├── bloco-09/               # Bloco 09 - Construtores e Encapsulamento
-└── bloco-10/               # Bloco 10 - POO na Prática (Mini Desafios)
+[//]: # (fundamentalTreinoJavaChatGPT/)
+
+[//]: # (├── README.md               # Este arquivo)
+
+[//]: # (├── bloco-01/               # Bloco 01 - Variáveis, Tipos e Saída de Dados)
+
+[//]: # (│   ├── ex01/               #)
+
+[//]: # (│   ├── ex02/               #)
+
+[//]: # (│   ├── ex03/               #)
+
+[//]: # (│   └── ... até ex10        #)
+
+[//]: # (├── bloco-02/               # Bloco 02 - Operadores e Condicionais &#40;if / else&#41;)
+
+[//]: # (│   ├── ex01/               #)
+
+[//]: # (│   ├── ex02/               #)
+
+[//]: # (│   └── ... até ex10        #)
+
+[//]: # (├── bloco-03/               # Bloco 03 - Laços de Repetição &#40;for, while, do-while&#41;)
+
+[//]: # (├── bloco-04/               # Bloco 04 - Arrays &#40;Vetores&#41;)
+
+[//]: # (├── bloco-05/               # Bloco 05 - Strings na Prática)
+
+[//]: # (├── bloco-06/               # Bloco 06 - Métodos &#40;Funções&#41;)
+
+[//]: # (├── bloco-07/               # Bloco 07 - Validação e Lógica Aplicada)
+
+[//]: # (├── bloco-08/               # Bloco 08 - Introdução à Programação Orientada a Objetos &#40;POO&#41;)
+
+[//]: # (├── bloco-09/               # Bloco 09 - Construtores e Encapsulamento)
+
+[//]: # (└── bloco-10/               # Bloco 10 - POO na Prática &#40;Mini Desafios&#41;)
 
 ## 🌿 Estratégia de Branches
 
