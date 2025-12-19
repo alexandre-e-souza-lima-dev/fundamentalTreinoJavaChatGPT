@@ -11,6 +11,8 @@ Este repositório contém exercícios de Java nível fundamental, organizados em
 
 ## 🏗️ Estrutura do Projeto
 
+[Estrutura do Projeto](img/estrutura.png)
+
 fundamentalTreinoJavaChatGPT/
 ├── README.md               # Este arquivo
 ├── bloco-01/               # Bloco 01 - Variáveis, Tipos e Saída de Dados
